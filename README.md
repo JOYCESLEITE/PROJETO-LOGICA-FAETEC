@@ -1,2 +1,3 @@
 # Meu Projeto
 Projeto da disciplina Tecnologia da Informação - FAETEC
+Praticando Git pelo VS Code - Joyce
